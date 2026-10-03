@@ -6,5 +6,9 @@
     <Color x:Key="BackgroundGreen">#07372b</Color>
     <Color x:Key="AccentBlue">#006c6c</Color>
     <Color x:Key="AccentGreen">#048c73</Color>
+
+    <Style x:Key="MainText" TargetType="TextBlock">
+        <Setter Property="FontFamily" ></Setter>
+    </Style>
     
 </ResourceDictionary>
