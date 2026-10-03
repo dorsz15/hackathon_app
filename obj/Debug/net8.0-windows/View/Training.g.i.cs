@@ -53,7 +53,7 @@ namespace electrolytes.View {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/electrolytes;V1.0.0.0;component/view/training.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/electrolytes;component/view/training.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\View\Training.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

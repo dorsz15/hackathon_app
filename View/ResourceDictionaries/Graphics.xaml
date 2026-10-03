@@ -7,8 +7,35 @@
     <Color x:Key="AccentBlue">#006c6c</Color>
     <Color x:Key="AccentGreen">#048c73</Color>
 
+    <SolidColorBrush x:Key="TextBlueBrush" Color="{StaticResource TextBlue}"/>
+    <SolidColorBrush x:Key="BackgroundGreenBrush" Color="{StaticResource BackgroundGreen}"/>
+
+    <FontFamily x:Key="Libre">
+        pack://application:,,,/electrolytes;component/View/Assets/#Libre Baskerville
+    </FontFamily>
+
     <Style x:Key="MainText" TargetType="TextBlock">
-        <Setter Property="FontFamily" ></Setter>
+        <Setter Property="FontFamily" Value="{StaticResource Libre}"/>
+        <Setter Property="FontSize" Value="30"/>
+        <Setter Property="Foreground" Value="{StaticResource TextBlueBrush}"/>
     </Style>
-    
+
+    <Style x:Key="Input" TargetType="TextBox">
+        <Setter Property="FontFamily" Value="{StaticResource Libre}"/>
+        <Setter Property="FontSize" Value="20"/>
+        <Setter Property="Foreground" Value="{StaticResource TextBlueBrush}"/>
+        <Setter Property="Background" Value="{StaticResource BackgroundGreenBrush}"/>
+        <Setter Property="BorderThickness" Value="0"/>
+        <Setter Property="HorizontalAlignment" Value="Center"/>
+        <Setter Property="VerticalAlignment" Value="Stretch"/>
+        <Setter Property="Padding" Value="10 0 10 0"/>
+    </Style>
+
+    <Style x:Key="InputBackground" TargetType="Border">
+        <Setter Property="CornerRadius" Value="20"/>
+        <Setter Property="Background" Value="{StaticResource BackgroundGreenBrush}"/>
+        <Setter Property="BorderBrush" Value="{StaticResource TextBlueBrush}"/>
+        <Setter Property="BorderThickness" Value="1"/>
+    </Style>
+
 </ResourceDictionary>

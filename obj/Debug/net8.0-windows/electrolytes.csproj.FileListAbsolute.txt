@@ -27,3 +27,5 @@ C:\Users\magda\Documents\GitHub\Hackathon\hackathon_app\obj\Debug\net8.0-windows
 C:\Users\magda\Documents\GitHub\Hackathon\hackathon_app\obj\Debug\net8.0-windows\electrolytes.pdb
 C:\Users\magda\Documents\GitHub\Hackathon\hackathon_app\obj\Debug\net8.0-windows\electrolytes.genruntimeconfig.cache
 C:\Users\magda\Documents\GitHub\Hackathon\hackathon_app\obj\Debug\net8.0-windows\ref\electrolytes.dll
+C:\Users\magda\Documents\GitHub\Hackathon\hackathon_app\obj\Debug\net8.0-windows\View\BasicInfo.g.cs
+C:\Users\magda\Documents\GitHub\Hackathon\hackathon_app\obj\Debug\net8.0-windows\View\BasicInfo.baml

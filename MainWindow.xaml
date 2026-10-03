@@ -22,5 +22,9 @@
                 </RadialGradientBrush>
             </Rectangle.Fill>
         </Rectangle>
+        <Border VerticalAlignment="Center"
+                HorizontalAlignment="Center">
+            <ContentControl Content="{Binding CurrentView}" />
+        </Border>
     </Grid>
 </Window>
