@@ -7,6 +7,17 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-
+        <Rectangle>
+            <Rectangle.Fill>
+                <RadialGradientBrush
+                    GradientOrigin="0.5,0.5" 
+                    Center="0.5,0.5" RadiusX="0.5" RadiusY="0.5">
+                    <RadialGradientBrush.GradientStops>
+                        <GradientStop Color="AccentBlue" Offset="0" />
+                        <GradientStop Color="BackgroundGreen" Offset="1" />
+                    </RadialGradientBrush.GradientStops>
+                </RadialGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
     </Grid>
 </Window>

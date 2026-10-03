@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("electrolytes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61d13c21141100933bce807bd7ab080faf2a1246")]
 [assembly: System.Reflection.AssemblyProductAttribute("electrolytes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("electrolytes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

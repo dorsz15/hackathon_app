@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\magda\\Documents\\GitHub\\Hackathon\\hackathon_app\\electrolytes\\electrolytes.csproj": {}
+    "C:\\Users\\magda\\Documents\\GitHub\\Hackathon\\hackathon_app\\electrolytes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\magda\\Documents\\GitHub\\Hackathon\\hackathon_app\\electrolytes\\electrolytes.csproj": {
+    "C:\\Users\\magda\\Documents\\GitHub\\Hackathon\\hackathon_app\\electrolytes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\magda\\Documents\\GitHub\\Hackathon\\hackathon_app\\electrolytes\\electrolytes.csproj",
+        "projectUniqueName": "C:\\Users\\magda\\Documents\\GitHub\\Hackathon\\hackathon_app\\electrolytes.csproj",
         "projectName": "electrolytes",
-        "projectPath": "C:\\Users\\magda\\Documents\\GitHub\\Hackathon\\hackathon_app\\electrolytes\\electrolytes.csproj",
+        "projectPath": "C:\\Users\\magda\\Documents\\GitHub\\Hackathon\\hackathon_app\\electrolytes.csproj",
         "packagesPath": "C:\\Users\\magda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\magda\\Documents\\GitHub\\Hackathon\\hackathon_app\\electrolytes\\obj\\",
+        "outputPath": "C:\\Users\\magda\\Documents\\GitHub\\Hackathon\\hackathon_app\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
